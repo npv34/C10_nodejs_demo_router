@@ -1,0 +1,7 @@
+{
+  "name": "router_nodejs",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.11.0"
+  }
+}
